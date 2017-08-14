@@ -1,0 +1,14 @@
+*.o
+applet/
+*~
+*.orig
+*.rej
+*.bak
+/Release
+/.settings
+.ino.cpp
+spec.d
+/Debug
+/EWARM
+STM32F103VETx_FLASH.ld
+
