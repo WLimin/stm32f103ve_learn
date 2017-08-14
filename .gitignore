@@ -11,4 +11,4 @@ spec.d
 /Debug
 /EWARM
 STM32F103VETx_FLASH.ld
-
+.mxproject
